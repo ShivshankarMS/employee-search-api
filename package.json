@@ -1,0 +1,14 @@
+{
+  "name": "employee-search-api",
+  "version": "1.0.0",
+  "description": "Employee Search api which will consumed by employee search application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shiv Shankar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
